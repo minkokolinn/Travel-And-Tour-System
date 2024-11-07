@@ -1,0 +1,15 @@
+.feedback_img{
+  width: 100%;
+  height:auto;
+  border-radius:50%;
+  border:3px solid black;
+}
+
+@media only screen and (max-width:767px){
+.feedback_img{
+  width: 10%;
+  height:auto;
+  /*border-radius:100px;*/
+  border:2px solid black;
+}
+}
